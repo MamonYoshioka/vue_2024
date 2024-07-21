@@ -3,7 +3,7 @@
 ## 学習動画
  - https://www.youtube.com/watch?v=Oyr0sr6l3SQ
 
- ## コース内容あ
+ ## コース内容
  - course.png 参照
 
  ## 学習整理
